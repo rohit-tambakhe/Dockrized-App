@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sweet-Home-main/BookingService/BookingService.iml" filepath="$PROJECT_DIR$/Sweet-Home-main/BookingService/BookingService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sweet-Home-main/PaymentService/PaymentService.iml" filepath="$PROJECT_DIR$/Sweet-Home-main/PaymentService/PaymentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sweet-Home.iml" filepath="$PROJECT_DIR$/.idea/Sweet-Home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sweet-Home-main/APIGateway/api-gateway.iml" filepath="$PROJECT_DIR$/Sweet-Home-main/APIGateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sweet-Home-main/EurekaServer/service_registry.iml" filepath="$PROJECT_DIR$/Sweet-Home-main/EurekaServer/service_registry.iml" />
+    </modules>
+  </component>
+</project>
